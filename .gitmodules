@@ -1,3 +1,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/JuanCunha1/pipex.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/JuanCunha1/libft.git
