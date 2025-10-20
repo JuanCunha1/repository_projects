@@ -4,3 +4,15 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/JuanCunha1/libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/JuanCunha1/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/JuanCunha1/get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/JuanCunha1/push_swap.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/JuanCunha1/fract-ol.git
